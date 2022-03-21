@@ -1,0 +1,3 @@
+en:
+  SilverStripe\CMS\Forms\SiteTreeURLSegmentField:
+    CopyLink: 'Copy link'

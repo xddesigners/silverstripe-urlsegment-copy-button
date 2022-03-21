@@ -1,0 +1,6 @@
+---
+Name: urlsegmentcopybutton
+---
+SilverStripe\Admin\LeftAndMain:
+  extra_requirements_javascript:
+    - 'urlsegmentcopybutton/javascript/cms.js'
