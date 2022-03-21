@@ -1,0 +1,19 @@
+{
+  "name": "xddesigners/silverstripe-urlsegment-copy-button",
+  "description": "Add a 'copy link' button to the URLSegment field in the CMS.",
+  "type": "silverstripe-vendormodule",
+  "keywords": [
+    "silverstripe",
+    "CMS",
+    "URLSegment",
+    "User interface"
+  ],
+  "license": "BSD-3-Clause",
+  "extra": {
+    "expose": [
+      "js"
+    ]
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

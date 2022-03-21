@@ -1,0 +1,10 @@
+._*
+Thumbs.db
+.DS_Store
+Desktop.ini
+*.log
+*.sql
+/**/node_modules
+.sass-cache
+/**/*.js.map
+/**/*.css.map
