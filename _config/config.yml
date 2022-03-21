@@ -3,4 +3,4 @@ Name: urlsegmentcopybutton
 ---
 SilverStripe\Admin\LeftAndMain:
   extra_requirements_javascript:
-    - 'urlsegmentcopybutton/js/cms.js'
+    - 'xddesigners/silverstripe-urlsegment-copy-button:js/cms.js'
