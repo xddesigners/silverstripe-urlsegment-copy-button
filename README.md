@@ -10,3 +10,7 @@ Install with Composer:
 ```
 composer require xddesigners/silverstripe-urlsegment-copy-button
 ```
+
+## Screenshots
+
+![Copy link button](docs/images/screenshot.png)
