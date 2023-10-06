@@ -9,6 +9,9 @@
     "User interface"
   ],
   "license": "BSD-3-Clause",
+  "require": {
+    "silverstripe/framework": "^4 || ^5"
+  },
   "extra": {
     "expose": [
       "js"
